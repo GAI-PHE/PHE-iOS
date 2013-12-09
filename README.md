@@ -1,4 +1,4 @@
 PHE-iOS
 =======
 
-Peer Health Exchange App for iOS Devices
+Peer Health Exchange App for iOS Devices.
